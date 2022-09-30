@@ -12,4 +12,4 @@ Hi, my name is Favour Adakosa and I'm a sophmore at Georgia State University. I 
 + XULA Atlanta Chapter
 
 
-![PictureOfNoodles!](Noodles.png)   
+![PictureOfNoodles!](/images/Noodles.png)   
