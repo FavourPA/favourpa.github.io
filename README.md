@@ -1,5 +1,11 @@
 # favourpa.github.io
 
-Hello GSU isn't this fun?
+Hi, my name is Favour Adakosa and I'm a sophmore at Georgia State University. I am a graphic design majore, but i love all things UX.
 
-## Header 2
+##Experience 
++ Google 
++ JP Morgan Chase
++ Georgia State
++ As Roma Academy Abuja
++ SOFU Lifestyle 
++ XULA Atlanta Chapter
